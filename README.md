@@ -1,0 +1,1 @@
+# django-htmx-soft-dashboard
