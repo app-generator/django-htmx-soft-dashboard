@@ -2,6 +2,8 @@
 
 Integration of [Soft Dashboard Tailwind](https://www.creative-tim.com/product/soft-ui-dashboard-tailwind?AFFILIATE=128200) from `Creative-Tim` in **Django** & [HTMX](https://htmx.org/) - open-source starter actively supported by `AppSeed`. 
 
+<br />
+
 > Features:
 
 - Django 4.2.x
